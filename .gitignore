@@ -1,0 +1,3 @@
+venv
+.env
+disk_usage_log.txt
